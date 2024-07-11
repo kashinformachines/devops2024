@@ -1,4 +1,4 @@
-source function.sh
+# source function.sh
 function testfun()
 {
   ls -lrta
