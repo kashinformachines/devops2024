@@ -1,8 +1,9 @@
+source function.sh
 function testfun()
 {
   ls -lrta
-  sleep 30
-  PRINT "Test done"
+  sleep 10
+  echo "Test done"
 }
 
 testfun
